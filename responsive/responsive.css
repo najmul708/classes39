@@ -1,0 +1,226 @@
+@media all and(max-width:1450px){
+    
+    
+}
+@media(max-width:1270px){
+    .tab .tab1 {
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+    .tab .tab1 img {
+        margin: auto;
+        height: 590px;
+        width: auto;
+    }
+    .tab .tab2 {
+        width: 100%;
+        box-sizing: border-box;
+        text-align: center;
+        padding: 47px;
+    }
+}
+@media(max-width:900px){
+    .logo {
+        margin-left: 10px;
+        line-height: 61px;
+    }
+    .menu1 ul li a {
+        padding: 0px 15px;
+        line-height: 60px;
+        font-size: 12px;
+    }
+    .bannar h1 {
+        font-size: 40px;
+    }
+    .bannar h4 {
+        font-size: 18px;
+    }
+    .bannar h3 {
+        padding: 10px;
+    }
+    .bannar {
+        padding: 100px;
+    }
+    .service2 {
+        padding: 8px 6px;
+    }
+    .service {
+        padding: 18px;
+        color: #5adbc1;
+    }
+    .service2 i {
+        font-size: 25px;
+    }
+    .service2 h2 {
+        margin: 10px 0px;
+        font-size: 20px;
+    }
+    .service2 p {
+        color: #787d81;
+        font-size: 12px;
+    }
+    .about {
+        padding: 15px;
+    }
+    .tab .tab1 img {
+        height: 360px;
+    }
+    .contact {
+        padding: 2px 40px;
+        height: 250px;
+    }
+
+}
+@media(max-width:685px){
+    .logo {
+        line-height: 35px;
+        font-size: 9px;
+    }
+    .menu1 ul li a {
+        padding: 0px 9px;
+        line-height: 35px;
+        font-size: 6px;
+    }
+    .menu1 ul li ul li a {
+        padding: 13px;
+        line-height:0px;
+    }
+    .bannar h1 {
+        font-size: 18px;
+    }
+    .bannar h4 {
+        font-size: 8px;
+    }
+    .bannar h3 {
+        padding: 4px;
+        font-size: 13px;
+        width: 100px;
+    }
+    .bannar {
+        padding: 30px;
+    }
+    .service {
+        padding: 5px;
+    }
+    .service h1 {
+        font-size: 25px;
+    }
+    .service p {
+        margin-top: 13px;
+        font-size: 12px;
+    }
+    .service2 .div1 {
+        width: 100%;
+        padding: 25px 50px;
+        
+    }
+    .about {
+        padding: 0px;
+    }
+    .about h1 {
+        padding: 11px;
+        font-size: 25px;
+    }
+    .about p {
+        padding: 4px 20px;
+    }
+    .tab .tab1 img {
+        height: 210px;
+    }
+    .tab .tab2 {
+        padding: 20px 10px;
+    }
+    .contact {
+        padding: 1px 2px;
+        height: 200px;
+    }
+    .contact h2 {
+        padding: 9px 0px;
+    }
+   
+}
+@media(max-width:375px){
+    .logo {
+        line-height: 30px;
+        font-size: 4px;
+        margin-left: 2px;
+    }
+    .menu1 ul li a {
+        padding: 0px 4px;
+        line-height: 30px;
+        font-size: 6px;
+    }
+    .bannar {
+        padding: 15px;
+    }
+    .bannar h1 {
+        font-size: 15px;
+    }
+    .bannar h4 {
+        font-size: 6px;
+    }
+    .bannar h3 {
+        padding: 4px;
+        font-size: 7px;
+        width: 50px;
+    }
+    .service h1 {
+        font-size: 20px;
+    }
+    .service p {
+        margin-top: 0px;
+        font-size: 10px;
+        padding: 5px 30px;
+    }
+    .service2 i {
+        font-size: 20px;
+    }
+    .service2 h2 {
+        margin: 10px 0px;
+        font-size: 15px;
+    }
+    .about h1 {
+        padding: 7px;
+        font-size: 20px;
+    }
+    .about p {
+        padding: 4px 20px;
+        font-size: 11px;
+    }
+    .tab {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .tab .tab1 img {
+        height: 170px;
+    }
+    .tab .tab2 h2 {
+        padding: 6px 0px;
+        font-size: 20px;
+    }
+    .tab .tab2 p {
+        padding-bottom: 20px;
+    }
+    .contact {
+        padding: 1px 2px;
+        height: auto;
+    }
+    .contact h2 {
+        padding: 6px 0px;
+        font-size: 20px;
+    }
+    .contact .location {
+        width: 100%;
+        font-size: 15px;
+        padding: 5px 0px;
+    }
+    .footer ul li {
+        padding: 8px;
+        font-size: 10px;
+    }
+    .copy {
+        color: rgb(185, 179, 179);
+        font-size: 6px;
+    }
+}
